@@ -1,0 +1,15 @@
+{
+  "services" : [
+    "Oil Change", "Tire Rotation", "Oil Filter Replacement",
+    "Tires Inspection", "Lights Inspection", "Wipers Inspection",
+    "Fluid Levels Inspection", "Fluid Top-Ups", "Tire Pressure Check",
+    "Tire Pressure Adjustments", "Engine Check", "Suspension Check",
+    "Steering Check", "Electrical Components Check", "Air Filter Replacement",
+    "Battery Testing", "Diagnostic Scan for trouble codes",
+    "Transmission Fluid Check", "Transmission Fluid Replacement", "Wheel Alignment",
+    "Tire Repair", "A/C Recharge", "Heater Core Repair",
+    "Blower Motor Replacement", "Leak Detection and Repair",
+    "Denting and Painting", "Car Cleaning and Wash", "Car Coating",
+    "Puncture Repair", "Battery jump-start", "Emergency Technical Support"
+  ]
+}
